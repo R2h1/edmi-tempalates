@@ -1,0 +1,17 @@
+{
+  "name": "edmi-templates",
+  "version": "0.0.1",
+  "description": "all kinds of project templates",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    
+  },
+  "keywords": [
+    "edmi",
+    "template"
+  ],
+  "author": "zed",
+  "license": "MIT"
+}
