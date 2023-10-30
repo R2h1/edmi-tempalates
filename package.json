@@ -1,6 +1,6 @@
 {
-  "name": "edmi-templates",
-  "version": "0.0.1",
+  "name": "@edmi965/project-templates",
+  "version": "0.0.2",
   "description": "all kinds of project templates",
   "publishConfig": {
     "access": "public"
