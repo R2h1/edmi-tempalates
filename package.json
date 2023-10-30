@@ -6,7 +6,8 @@
     "access": "public"
   },
   "repository": {
-    
+    "type": "git",
+    "url": "https://github.com/R2h1/edmi-tempalates"
   },
   "keywords": [
     "edmi",
