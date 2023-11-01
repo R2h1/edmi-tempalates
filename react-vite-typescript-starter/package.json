@@ -1,0 +1,17 @@
+{
+  "name": "@edmi965/react-vite-typescript-starter",
+  "version": "1.0.0",
+  "description": "vue template",
+  "scripts": {
+    "pub": "npm publish --access=public  --registry https://registry.npmjs.org/"
+  },
+  "keywords": [
+    "edmi",
+    "template",
+    "react",
+    "vite",
+    "typescript"
+  ],
+  "author": "zed",
+  "license": "MIT"
+}

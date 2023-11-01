@@ -1,6 +1,5 @@
 {
-  "name": "react-vite-typescript-template",
-  "private": true,
+  "name": "react-vite-typescript",
   "version": "0.0.1",
   "type": "module",
   "scripts": {

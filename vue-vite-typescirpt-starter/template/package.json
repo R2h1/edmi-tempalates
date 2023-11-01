@@ -1,7 +1,6 @@
 {
-  "name": "vue-vite-typescript-template",
+  "name": "vue-vite-typescript",
   "version": "0.0.1",
-  "private": true,
   "scripts": {
     "dev": "vite",
     "build": "run-p type-check \"build-only {@}\" --",
@@ -19,6 +18,13 @@
     "vue": "^3.3.4",
     "vue-router": "^4.2.5"
   },
+  "keywords": [
+    "edmi",
+    "template",
+    "vue",
+    "vite",
+    "typescript"
+  ],
   "devDependencies": {
     "@rushstack/eslint-patch": "^1.3.3",
     "@tsconfig/node18": "^18.2.2",

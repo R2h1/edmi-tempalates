@@ -1,13 +1,13 @@
 {
   "name": "@edmi965/project-templates",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "all kinds of project templates",
-  "publishConfig": {
-    "access": "public"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/R2h1/edmi-tempalates"
+  },
+  "scripts": {
+    "pub": "npm publish --access=public  --registry https://registry.npmjs.org/"
   },
   "keywords": [
     "edmi",
