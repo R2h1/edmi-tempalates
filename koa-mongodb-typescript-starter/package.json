@@ -1,0 +1,17 @@
+{
+  "name": "@edmi965/koa-mongodb-typescript-starter",
+  "version": "1.0.0",
+  "description": "koa template",
+  "scripts": {
+    "pub": "npm publish --access=public  --registry https://registry.npmjs.org/"
+  },
+  "keywords": [
+    "edmi",
+    "template",
+    "koa",
+    "mongodb",
+    "typescript"
+  ],
+  "author": "zed",
+  "license": "MIT"
+}
