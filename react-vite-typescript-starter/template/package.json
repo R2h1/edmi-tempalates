@@ -1,6 +1,8 @@
 {
-  "name": "react-vite-typescript",
+  "name": "{{name}}",
   "version": "0.0.1",
+  "description": "{{description}}",
+  "author": "{{author}}",
   "type": "module",
   "scripts": {
     "dev": "vite",

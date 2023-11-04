@@ -1,6 +1,8 @@
 {
-  "name": "vue-vite-typescript",
+  "name": "{{name}}",
   "version": "0.0.1",
+  "description": "{{description}}",
+  "author": "{{author}}",
   "scripts": {
     "dev": "vite",
     "build": "run-p type-check \"build-only {@}\" --",
